@@ -1,0 +1,15 @@
+label	replace by
+Wu HC	Wu, Hungche
+Wu H C	Wu, Hungche
+Gan BQ	Gan, Baiqiang
+Baiqiang GAN	Gan, Baiqiang
+Wu HUNGCHE	Wu, Hungche
+zhan, choujun	Zhan, Choujun
+choujun, zhan	Zhan, Choujun
+choujun zhan	Zhan, Choujun
+pan, chung-lien	Pan, Chung-lien
+chung-lien pan	Pan, Chung-lien
+Kai-sheng CHEN	Chen, Kai-sheng
+Chen KS	Chen, Kai-sheng
+Liao HT	Liao, Han-Teng
+Han-teng LIAO	Liao, Han-Teng
