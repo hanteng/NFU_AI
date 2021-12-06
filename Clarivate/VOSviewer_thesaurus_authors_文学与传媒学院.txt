@@ -1,0 +1,47 @@
+label	replace by
+Wu HC	Wu, Hungche
+Wu H C	Wu, Hungche
+Gan BQ	Gan, Baiqiang
+Baiqiang GAN	Gan, Baiqiang
+Wu HUNGCHE	Wu, Hungche
+zhan, choujun	Zhan, Choujun
+choujun, zhan	Zhan, Choujun
+choujun zhan	Zhan, Choujun
+pan, chung-lien	Pan, Chung-lien (会计)
+chung-lien pan	Pan, Chung-lien (会计)
+Zhang, Yuan	Zhang, Yuan (会计)
+Kai-sheng CHEN	Chen, Kai-sheng (电气)
+Chen KS	Chen, Kai-sheng (电气)
+Cong Cao	Cong, Cao (电气)
+Liao HT	Liao, Han-Teng
+Han-teng LIAO	Liao, Han-Teng
+Mo, Wenjun	[网新生] Mo, Wenjun
+Jiang, X.	[网新生] Jiang, Xiaolin
+Yu Liu	[网新生] Liu, Yu
+Si-pan Sun	[网新生] Sun, Si-pan
+Xiaolin Jiang	[网新生] Jiang, Xiaolin
+Jieqi Huang	[网新生] Huang, Jieqi
+Zhuoqi Pan	[网新生] Pan, Zhuoqi
+Jiaying Lei	[网新生] Lei, Jiaying
+Zixian Zhou	[网新生] Zhou, Zixian
+Yujin Zhou	[网新生] Zhou, Yujin
+Peiling Wei	Wei, Peiling
+Pei ling Wei	Wei, Peiling
+Zhichao Xu	Xu, Zhichao
+Yuan Feng	Feng, Yuan (艺创)
+Tao Guo	Guo, Tao (大英)
+Peian Lu	Lu, Peian (公管)
+Qin-ling Chen	Chen, Qin-ling (广东省农业科学院)
+Jiacheng Lou	Lou, Jiacheng (国家工业设计研究院-生态设计)
+Xiumei Zhou	Zhou, Xiumei (南方科技大学)
+Cheng Zhang	Zhang, Cheng (南方科技大学)
+Yanjun Wang	Wang, Yanjun (塔斯马尼亚大学)
+Su, Xianglin	Su, Xianglin (深圳大学)
+Ou, Wanhua	Ou, Wanhua (深圳大学)
+Xu, Xianglin	Xu, Xianglin (深圳大学)
+Feng, Guangchao Charles	Feng, Guangchao Charles (深圳大学)
+Yan, Qing	Yan, Qing (暨南大学)
+You, Ge	You, Ge (暨南大学)
+Guo, Hao	Guo, Hao (武汉纺织大学)
+Dagestani, Abd Alwahed	Dagestani, Abd Alwahed (中南大学)
+Deng, Shuai	Deng, Shuai  (湖南工学院)
